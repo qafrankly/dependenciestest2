@@ -19,7 +19,7 @@ class ModuleOne extends Component {
 
     return (
       <div>
-        <h2>This is mod1</h2>
+        <h2>This is module number 1</h2>
 	<h3>dep: {dep(1)} </h3>
 	<h3>dep: {dep(1)} </h3>
 	<h2>testing ModuleOne</h2>
