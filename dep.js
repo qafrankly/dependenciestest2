@@ -1,3 +1,6 @@
+import rootdep from './rootdep';
+
+
 const obj = {store:0}
 
 function dep (a) {
