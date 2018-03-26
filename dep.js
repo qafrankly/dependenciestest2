@@ -1,5 +1,4 @@
-import rootdep from './rootdep';
-
+//import rootdep from './rootdep';
 
 const obj = {store:0}
 
