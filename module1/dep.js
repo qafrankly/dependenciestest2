@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-import Depdep from './depdep';
+//import Depdep from './depdep';
 //<Depdep />
 
 
