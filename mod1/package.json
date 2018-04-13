@@ -1,7 +1,7 @@
 {
-  "lintfix": "if it ain't broke",
+  "lintfix": "if it ain't broke!",
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "affiliates":["asdf"],
+  "affiliates":["wndemo"],
   "tag":"yo",
   "propTypes": {
     "title": "PropTypes.string",
@@ -10,7 +10,7 @@
   "defaultProps": {
     "title": "foobar",
     "titleColor": "#000",
-    "backgroundColor": "pink",
+    "backgroundColor": "yellow",
     "layout": "hero",
     "numberOfItems": 6,
     "textColor": "black",
